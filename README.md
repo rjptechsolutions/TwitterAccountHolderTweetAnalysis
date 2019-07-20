@@ -1,9 +1,6 @@
 # TwitterAccountHolderTweetAnalysis
 Twitter API used for Simple sentimental analysis using Python Flask and matplotlib 
 
-
-https://user-images.githubusercontent.com/40298253/61582839-78db9a00-ab4d-11e9-910c-9206388e8fed.PNG
-
-https://user-images.githubusercontent.com/40298253/61582851-90b31e00-ab4d-11e9-8ead-d97add8cf453.PNG
-
-https://user-images.githubusercontent.com/40298253/61582862-a1fc2a80-ab4d-11e9-8b86-8d39979f1ce4.PNG
+![search](https://user-images.githubusercontent.com/40298253/61582870-da9c0400-ab4d-11e9-95fb-ae5a5237a6f6.PNG)
+![realtimedataanalysis](https://user-images.githubusercontent.com/40298253/61582872-eab3e380-ab4d-11e9-8376-e2677f1f8e40.PNG)
+![polarity](https://user-images.githubusercontent.com/40298253/61582879-f901ff80-ab4d-11e9-8412-254d60283dd6.PNG)
